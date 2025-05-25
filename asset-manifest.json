@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sitenk/static/css/main.d4b75cf0.css",
-    "main.js": "/sitenk/static/js/main.fd3b7166.js",
+    "main.css": "/sitenk/static/css/main.508d5c88.css",
+    "main.js": "/sitenk/static/js/main.ebd8ffe0.js",
     "static/media/HowDoesItWork.mp4": "/sitenk/static/media/HowDoesItWork.839f81d0ba8e86a0fe85.mp4",
     "static/media/myPhoto.jpg": "/sitenk/static/media/myPhoto.1aeb67b84bef396bdfdf.jpg",
     "static/media/girl.png": "/sitenk/static/media/girl.f48494db582d462ab103.png",
@@ -9,11 +9,11 @@
     "static/media/pattern.png": "/sitenk/static/media/pattern.18b251d6dd57d3b67d1a.png",
     "static/media/preview_HowDoesItWork.jpg": "/sitenk/static/media/preview_HowDoesItWork.35e7b5d702f07598dca2.jpg",
     "index.html": "/sitenk/index.html",
-    "main.d4b75cf0.css.map": "/sitenk/static/css/main.d4b75cf0.css.map",
-    "main.fd3b7166.js.map": "/sitenk/static/js/main.fd3b7166.js.map"
+    "main.508d5c88.css.map": "/sitenk/static/css/main.508d5c88.css.map",
+    "main.ebd8ffe0.js.map": "/sitenk/static/js/main.ebd8ffe0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4b75cf0.css",
-    "static/js/main.fd3b7166.js"
+    "static/css/main.508d5c88.css",
+    "static/js/main.ebd8ffe0.js"
   ]
 }
