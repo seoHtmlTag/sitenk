@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.9a799066.css",
-    "main.js": "/static/js/main.dd56017d.js",
-    "static/media/HowDoesItWork.mp4": "/static/media/HowDoesItWork.839f81d0ba8e86a0fe85.mp4",
+    "main.js": "/static/js/main.3aa0a9a1.js",
+    "static/media/HowDoesItWork.mp4": "/static/media/HowDoesItWork.277185ef628faf77a805.mp4",
+    "static/media/preview_HowDoesItWork.png": "/static/media/preview_HowDoesItWork.71d968451e44be624fd8.png",
     "static/media/myPhoto.jpg": "/static/media/myPhoto.1aeb67b84bef396bdfdf.jpg",
     "static/media/girl.png": "/static/media/girl.f48494db582d462ab103.png",
     "static/media/jpg": "/static/media/5271573624693847511.2789a4d1c0ad45a1db41.jpg",
     "static/media/pattern.png": "/static/media/pattern.18b251d6dd57d3b67d1a.png",
-    "static/media/preview_HowDoesItWork.jpg": "/static/media/preview_HowDoesItWork.35e7b5d702f07598dca2.jpg",
     "static/media/2.jpg": "/static/media/2.d308275066a9df3b7825.jpg",
     "static/media/1.jpg": "/static/media/1.1be423f6b0efa50752fd.jpg",
     "static/media/3.jpg": "/static/media/3.cd551f533e88c2edb8a4.jpg",
     "index.html": "/index.html",
     "main.9a799066.css.map": "/static/css/main.9a799066.css.map",
-    "main.dd56017d.js.map": "/static/js/main.dd56017d.js.map"
+    "main.3aa0a9a1.js.map": "/static/js/main.3aa0a9a1.js.map"
   },
   "entrypoints": [
     "static/css/main.9a799066.css",
-    "static/js/main.dd56017d.js"
+    "static/js/main.3aa0a9a1.js"
   ]
 }
